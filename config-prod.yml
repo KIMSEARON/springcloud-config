@@ -1,1 +1,3 @@
 # prod环境配置文件
+config:
+  version: prod-v1
